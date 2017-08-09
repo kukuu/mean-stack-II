@@ -24,6 +24,6 @@ from your MongoDB directory, and then run the code with
 
     node server
 
-More CRUDE Methods are enabled from @server.js to serve application once disc data is migrated to MongoDB.
+More CRUDE methods are enabled from @server.js to serve application once disc data is migrated to MongoDB.
 The buttons attached to the UI to execute added extended CRUD response/request methods will work once the MongoDB database is added to the application. 
 Provision for this has been made in the @server.js sequence algorithm. The data for this instance is being loaded from the disc via the server.
