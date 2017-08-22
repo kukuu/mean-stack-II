@@ -3,6 +3,7 @@
 //Application Framework: MEAN-STACK
 //Notes: More CRUDE Methods are enabled here 
 //Requirement: MongoDB must be added to the application and disc data migrated into the DB.
+//Note: Rename this file, @server.js as server.js. First back up the existing server.js
 
 var express = require('express');
 
